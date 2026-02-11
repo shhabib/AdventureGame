@@ -1,0 +1,9 @@
+
+> palette-ux-demo@0.0.0 dev /app
+> vite --port 5173
+
+
+  VITE v5.4.21  ready in 288 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
