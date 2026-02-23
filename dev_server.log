@@ -1,0 +1,15 @@
+
+> palette-ux-demo@0.0.0 dev /app
+> vite
+
+
+  VITE v5.4.21  ready in 253 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+5:06:06 PM [vite] hmr update /src/App.tsx
+5:06:06 PM [vite] hmr update /src/components/NewsletterForm.tsx
+5:06:06 PM [vite] page reload src/main.tsx
+5:06:06 PM [vite] vite.config.ts changed, restarting server...
+Re-optimizing dependencies because lockfile has changed
+5:06:06 PM [vite] server restarted.
