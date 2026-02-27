@@ -1,0 +1,10 @@
+
+> palette-ux-demo@0.0.0 dev /app
+> vite
+
+
+  VITE v5.4.21  ready in 333 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+5:17:26 PM [vite] hmr update /src/components/NewsletterForm.tsx
